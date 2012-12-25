@@ -4,7 +4,7 @@ use Module::Build;
 
 my $builder = Module::Build->new(
     module_name         => 'My::Module',
-    license             => 'artistic2',
+    license             => 'perl',
     dist_author         => 'Bertil Kronlund <bkron@cpan.org>',
     dist_version_from   => 'lib/My/Module.pm',
     requires => {
