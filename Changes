@@ -1,5 +1,8 @@
 Revision history for My-Module
 
+0.0.3  Tue Dec 25 16:30 2012
+       Bugfix: Wrong version in README.
+
 0.0.2  Tue Dec 25 13:51 2012
        Added milkshake.
 
