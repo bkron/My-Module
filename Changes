@@ -1,5 +1,7 @@
 Revision history for My-Module
 
+0.0.5_01 Next release
+
 0.0.4  Tue Dec 25 19:54 2012
        Updated perlcritic test.
        Use perl6 modules.
